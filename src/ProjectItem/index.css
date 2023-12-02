@@ -1,0 +1,14 @@
+.image-icon {
+  height: 80px;
+  width: 80px;
+}
+
+.list-item-container {
+  margin: 10px;
+}
+.button {
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
